@@ -1,7 +1,7 @@
 
 # Scientific Calculator
 
-![Calculator Screenshot](screenshot.png)
+![sci_cal](https://github.com/PallelaKalyan/Scientific_Calci/assets/100932107/74936ce2-2d4c-412c-8d78-a7f8fdda5fdc)
 
 The Scientific Calculator is a comprehensive calculator application developed using HTML, CSS, and JavaScript. It provides a wide range of mathematical functions and operations, making it suitable for various scientific calculations and computations.
 
@@ -64,6 +64,6 @@ The Scientific Calculator project is licensed under the [MIT License](LICENSE).
 For any questions, suggestions, or feedback, please feel free to reach out to me:
 
 - Email:pallelakalyan20@gmail.com
-- GitHub: [your-username](https://github.com/PallelaKalyan)
+- GitHub: PallelKalyan(https://github.com/PallelaKalyan)
 
 ---
